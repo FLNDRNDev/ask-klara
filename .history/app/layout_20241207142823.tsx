@@ -39,9 +39,9 @@ export default function RootLayout({
   	children: React.ReactNode;
 }>) {
 	console.log("Publishable Key:", process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY);
-
+	
 	return (
-		<ClerkProvider>
+		<ClerkProvider publishableKey={process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY}>
 			<TranslationProvider>
 			<html lang="nl">
 				<body className={`${inter.variable} ${agremFont.variable} min-h-screen`}>

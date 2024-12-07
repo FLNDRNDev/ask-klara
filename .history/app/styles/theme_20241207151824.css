@@ -1,0 +1,55 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+
+  --font-family: "Inter", sans-serif;
+
+  --text-color: #4a5568; /* gray-700 */
+  --tagline-color: #a0aec0; /* gray-400 */
+  --input-placeholder-color: #718096; /* gray-500 */
+  --input-text-color: #4a5568; /* gray-700 */
+
+  --sidebar-link: #3189c9;
+  --create-button: #85c441;
+  --sidebar-background-color: #f7fafc; /* gray-100 */
+}
+
+/* GENERAL STYLING */
+body {
+  font-family: var(--font-family);
+
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.sidebar {
+  background-color: var(--sidebar-background-color);
+}
+
+.btn {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.create {
+  background-color: var(--create-button);
+}
+
+.sidebar-link {
+  background-color: var(--sidebar-link);
+}
+
+.tagline {
+  color: var(--tagline-color);
+}
+
+input {
+  color: var(--input-text-color);
+}
+
+input::placeholder {
+  color: var(--input-placeholder-color);
+}
