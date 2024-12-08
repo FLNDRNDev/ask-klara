@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-wandering-truth-a2a7ag2z.eu-central-1.aws.neon.tech/ask-klara-db?user=ask-klara-db_owner&password=gYn9wLvZE4uj

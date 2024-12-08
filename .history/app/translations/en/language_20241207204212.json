@@ -1,0 +1,49 @@
+{
+   "component": {
+      "header": {
+         "subtitle": "Ask. Assist. Resolve.",
+         "signIn": "Sign In"
+      },
+
+      "sidebar": {
+         "btnCreate": "Create",
+         "btnCreateSub": "New Chatbot",
+         "btnEdit": "Edit",
+         "btnEditSub": "Chatbots",
+         "btnReview": "View",
+         "btnReviewSub": "Sessions"
+      }
+   },
+
+   "createBot": {
+      "title": "Create",
+      "tagline": "Create a new chatbot to assist you in your conversations with your customers.",
+      "chatbotName": "Chatbot name...",
+      "btnCreate": "Create Chatbot"
+   },
+
+
+   "home": {
+      "test": "Lets build an ask Klara AI Agent App",
+      "language": "en",
+      "welcomeMessage": "Welcome to our platform!",
+      "description": "We provide the best services to meet your needs.",
+      
+      "footer": {
+         "copyright": "© 2024 YourCompany. All rights reserved.",
+         "terms": "Terms and Conditions"
+      }
+   },
+
+
+   "about": {
+
+   },
+
+   
+   "contact": {
+      "heading": "Contact Us",
+      "phoneLabel": "Phone Number",
+      "emailLabel": "Email Address"
+   }
+}

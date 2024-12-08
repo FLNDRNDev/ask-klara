@@ -1,0 +1,50 @@
+{
+   "component": {
+      "header": {
+         "subtitle": "Ask. Assist. Resolve.",
+         "signIn": "Inloggen"
+      },
+
+      "sidebar": {
+         "btnCreate": "Creër",
+         "btnCreateSub": "Nieuwe chatbot",
+         "btnEdit": "Bewerken",
+         "btnEditSub": "Chatbots",
+         "btnReview": "Bekijk",
+         "btnReviewSub": "Sessie"
+      }
+   },
+
+   "createBot": {
+      "title": "Creër",
+      "tagline": "Maak een nieuwe chatbot om u te helpen bij uw gesprekken met uw klanten.",
+      "chatbotName": "Chatbot naam...",
+      "btnCreate": "Chatbot Creëren",
+      "exampleChatbot": "Voorbeeld: Klantenservice Klarabot"
+   },
+   
+   
+   "home": {
+      "test": "Laten we een ask Klara AI Agent-app bouwen",
+      "language": "nl",
+      "welcomeMessage": "Welcome to our platform!",
+      "description": "We provide the best services to meet your needs.",
+
+      "footer": {
+         "copyright": "© 2024 YourCompany. All rights reserved.",
+         "terms": "Terms and Conditions"
+      }
+   },
+
+
+   "about": {
+
+   },
+
+
+   "contact": {
+      "heading": "Contact Us",
+      "phoneLabel": "Phone Number",
+      "emailLabel": "Email Address"
+   }
+}
